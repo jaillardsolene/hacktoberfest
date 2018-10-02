@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Solene Jaillard](https://github.com/jaillardsolene)
+- Place:Lyon, France
+- Bio: COMPUTER GEEK
+- GitHub: [Solene Jaillard]](https://github.com/jaillardsolene)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
